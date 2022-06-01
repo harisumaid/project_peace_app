@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704553122764",
+    "project_id": "project-peace-8d684",
+    "storage_bucket": "project-peace-8d684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704553122764:android:1fd554098dec5a23737b69",
+        "android_client_info": {
+          "package_name": "com.example.project_peace_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704553122764-9ntaea1ilectldep8qhcqsfq2q33oa3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzYpwGLz6yJxFVaHesDk6lAfAsAc1Euk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704553122764-9ntaea1ilectldep8qhcqsfq2q33oa3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704553122764-meuecl8me09cq3vp1t04nhat21u17igv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectPeaceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
